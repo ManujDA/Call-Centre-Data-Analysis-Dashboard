@@ -50,6 +50,8 @@ The following measures were implemented using calculated metrics to derive meani
 
 ## Dashboard Features and KPIs
 
+![Call_Center](https://github.com/user-attachments/assets/5f34199b-7e45-46be-afae-2e1dbe51f6b1)
+
 1. **Overall Performance Metrics**:
    - Total calls: 5,000
    - Calls answered: 4,054
