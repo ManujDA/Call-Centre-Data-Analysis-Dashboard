@@ -17,11 +17,11 @@ The stakeholders outlined the following objectives for the dashboard:
    - Measure overall customer satisfaction levels.
 
 2. **Call Performance Metrics**:
-   - Track total calls answered, abandoned, and missed.
+   - Track total calls answered, abandoned and missed.
    - Analyse call durations and average speed of answer.
 
 3. **Agent Productivity**:
-   - Assess agent performance through metrics such as calls answered, average handle time, and issues resolved.
+   - Assess agent performance through metrics such as calls answered, average handle time and issues resolved.
 
 4. **Operational Trends**:
    - Identify trends in calls by time and topics.
@@ -41,14 +41,14 @@ The stakeholders outlined the following objectives for the dashboard:
    - Average call duration: 224.92 seconds
 
 2. **Agent Performance Quadrant**:
-   - Comparison of agents based on calls answered, issues resolved, and average handle time.
+   - Comparison of agents based on calls answered, issues resolved and average handle time.
 
 3. **Call Analysis**:
-   - Call distribution by time, topics, and agents.
+   - Call distribution by time, topics and agents.
    - Identification of high-traffic periods and popular call topics.
 
 4. **Customer Satisfaction**:
-   - Overall rating of 3.40 out of 5.
+   - Overall rating of 3.4 out of 5.
 
 5. **Visual Elements**:
    - Interactive bar charts for agent and topic analysis.
@@ -90,11 +90,5 @@ The stakeholders outlined the following objectives for the dashboard:
    - Use predictive analytics to forecast call volumes and adjust staffing dynamically.
    - Implement tools to monitor and reduce average answer and handle times.
 
-
 ## License
 This project is licensed under the MIT License.
-
----
-
-## Contact
-For further information, please contact [Your Name/Team] at [Your Email Address].
