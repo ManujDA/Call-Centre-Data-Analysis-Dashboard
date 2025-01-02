@@ -32,7 +32,6 @@ The stakeholders outlined the following objectives for the dashboard:
 
 ## Dashboard Features and KPIs
 
-### Key Features
 1. **Overall Performance Metrics**:
    - Total calls: 5,000
    - Calls answered: 4,054
@@ -69,7 +68,7 @@ The stakeholders outlined the following objectives for the dashboard:
 4. **Operational Trends**:
    - Peak call volumes occur mid-day, suggesting a need for increased staffing during these hours.
 
-## Recommendations for Improvement
+## Recommendations 
 1. **Agent Training and Support**:
    - Provide additional training for agents with higher missed calls or lower issue resolution rates.
    - Introduce mentoring programs where top-performing agents like Jim can guide others.
