@@ -12,22 +12,12 @@ This project involves developing a Power BI dashboard for a telecom call centre 
 
 ## Stakeholder Requirements
 The stakeholders outlined the following objectives for the dashboard:
-
-1. **Customer Satisfaction**:
    - Measure overall customer satisfaction levels.
-
-2. **Call Performance Metrics**:
    - Track total calls answered, abandoned and missed.
    - Analyse call durations and average speed of answer.
-
-3. **Agent Productivity**:
    - Assess agent performance through metrics such as calls answered, average handle time and issues resolved.
-
-4. **Operational Trends**:
    - Identify trends in calls by time and topics.
    - Visualise call distributions and peak periods.
-
-5. **Actionable Insights**:
    - Provide insights to improve service quality and operational efficiency.
 
 ## Measures
@@ -75,37 +65,21 @@ The following measures were implemented using calculated metrics to derive meani
    - Pie chart for call distribution.
 
 ## Insights
-1. **Agent Productivity**:
    - Jim resolved the most issues, making him a top performer.
    - Diane missed the most calls, highlighting a need for additional support or training.
-
-2. **Call Topics**:
    - "Streaming" and "Payment-related" calls are most frequent, indicating these areas may need enhanced support materials.
-
-3. **Customer Experience**:
    - An overall satisfaction score of 3.40 suggests room for improvement, particularly in speed and resolution efficiency.
-
-4. **Operational Trends**:
    - Peak call volumes occur mid-day, suggesting a need for increased staffing during these hours.
 
 ## Recommendations 
-1. **Agent Training and Support**:
    - Provide additional training for agents with higher missed calls or lower issue resolution rates.
    - Introduce mentoring programs where top-performing agents like Jim can guide others.
-
-2. **Resource Allocation**:
    - Increase staffing during mid-day peak hours to handle higher call volumes effectively.
    - Reallocate resources to ensure balanced workloads across agents.
-
-3. **Enhanced Customer Support Materials**:
    - Develop targeted FAQs and scripts for frequent topics like "Streaming" and "Payment-related" issues.
    - Implement knowledge bases and AI-driven chat assistants to assist agents and customers.
-
-4. **Customer Feedback Integration**:
    - Regularly gather and analyse customer feedback to identify pain points and opportunities for improvement.
    - Use feedback to refine training programs and operational strategies.
-
-5. **Technology Optimisation**:
    - Use predictive analytics to forecast call volumes and adjust staffing dynamically.
    - Implement tools to monitor and reduce average answer and handle times.
 
