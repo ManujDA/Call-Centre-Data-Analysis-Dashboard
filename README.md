@@ -30,6 +30,24 @@ The stakeholders outlined the following objectives for the dashboard:
 5. **Actionable Insights**:
    - Provide insights to improve service quality and operational efficiency.
 
+## Measures
+The following measures were implemented using calculated metrics to derive meaningful insights:
+
+1. **Total Calls Answered (%)**:
+   - Calculated as the ratio of answered calls to the total number of calls received, providing insight into service efficiency.
+
+2. **Calls Answered**:
+   - A count of calls successfully handled by agents, highlighting operational effectiveness.
+
+3. **Calls Missed**:
+   - Tracks the number of calls not answered, signalling potential resource gaps or inefficiencies.
+
+4. **Issues Resolved**:
+   - Reflects the total number of customer issues successfully addressed, measuring agent productivity and problem resolution capacity.
+
+5. **Month Name**:
+   - Extracted from call timestamps to categorise and analyse trends over time, supporting seasonal or monthly performance evaluations.
+
 ## Dashboard Features and KPIs
 
 1. **Overall Performance Metrics**:
