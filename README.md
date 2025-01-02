@@ -1,10 +1,14 @@
 
 # Call Centre Data Analysis Dashboard
 
-## Overview
-This project involves developing a Power BI dashboard for a telecom call centre to visualise and analyse operational performance. The primary goal is to deliver actionable insights that drive improvements in customer satisfaction, agent productivity, and overall efficiency.
+This project involves developing a Power BI dashboard for a telecom call centre to visualise and analyse operational performance. The primary goal is to deliver actionable insights that drive improvements in customer satisfaction, agent productivity and overall efficiency.
 
----
+
+## How to Use the Dashboard
+1. Download the Power BI `.pbix` file from the repository.
+2. Open the file in Power BI Desktop.
+3. Use the interactive filters to explore metrics by agent, time or call topic.
+4. Analyse the visuals to identify trends and actionable insights.
 
 ## Stakeholder Requirements
 The stakeholders outlined the following objectives for the dashboard:
@@ -25,8 +29,6 @@ The stakeholders outlined the following objectives for the dashboard:
 
 5. **Actionable Insights**:
    - Provide insights to improve service quality and operational efficiency.
-
----
 
 ## Dashboard Features and KPIs
 
@@ -53,8 +55,6 @@ The stakeholders outlined the following objectives for the dashboard:
    - Time-series graphs to track call trends throughout the day.
    - Pie chart for call distribution.
 
----
-
 ## Insights
 1. **Agent Productivity**:
    - Jim resolved the most issues, making him a top performer.
@@ -68,8 +68,6 @@ The stakeholders outlined the following objectives for the dashboard:
 
 4. **Operational Trends**:
    - Peak call volumes occur mid-day, suggesting a need for increased staffing during these hours.
-
----
 
 ## Recommendations for Improvement
 1. **Agent Training and Support**:
@@ -92,27 +90,6 @@ The stakeholders outlined the following objectives for the dashboard:
    - Use predictive analytics to forecast call volumes and adjust staffing dynamically.
    - Implement tools to monitor and reduce average answer and handle times.
 
----
-
-## How to Use the Dashboard
-1. Download the Power BI `.pbix` file from the repository.
-2. Open the file in Power BI Desktop.
-3. Use the interactive filters to explore metrics by agent, time, or call topic.
-4. Analyse the visuals to identify trends and actionable insights.
-
----
-
-## Repository Structure
-```
-Call-Centre-Data-Analysis/
-├── README.md
-├── Dashboard/
-│   └── Call_Centre_Dashboard.pbix
-└── Documentation/
-    └── Stakeholder_Email.docx
-```
-
----
 
 ## License
 This project is licensed under the MIT License.
